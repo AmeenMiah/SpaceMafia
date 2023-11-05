@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: a9a65a1ea353edd4c90542e0a43e432d
+  - enabled: 1
+    path: Assets/Scenes/Cutscene#1.unity
+    guid: f538df11737876343bbb68e2fe25368d
+  - enabled: 1
+    path: Assets/Scenes/Level01/Level01.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Cutscene#2.unity
+    guid: d3946b691c986574c879e20c1f93bba9
+  - enabled: 1
+    path: Assets/Scenes/Level02/Level02.unity
+    guid: fee3d9b5252d586468f07a4688ee07fd
+  - enabled: 1
+    path: Assets/Scenes/Cutscene#3.unity
+    guid: d6e58db8997dde640b3d10afb493906b
+  - enabled: 1
+    path: Assets/Scenes/Level03/Level03.unity
+    guid: 6d67e694331c5f64a8d254e95e27a609
+  - enabled: 1
+    path: Assets/Scenes/Level04/Level04.unity
+    guid: 6289107caafd5bb41a36b4fcd55a87bb
+  - enabled: 1
+    path: Assets/Scenes/Cutscene#4.unity
+    guid: a476b577fd881c44799b3667f9e1be4f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene#5.unity
+    guid: 1e9c8e8668d9bb847ba255c997c146b0
+  - enabled: 1
+    path: Assets/Scenes/ChaosHorde/ChaosHorde.unity
+    guid: d51757ce0e534934b9cdaddc0fed94ca
+  - enabled: 1
+    path: Assets/Scenes/Cutscene#6.unity
+    guid: 964f5e99e8562ce4382b98b4852c7815
+  m_configObjects: {}
